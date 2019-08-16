@@ -12,3 +12,16 @@ In subfolder *presentations* we put some presentations we gave in conferences wi
 ## Code 
 We also put some recent code for analysis of open and depersonalized data for functionality of "Lecturers without borders".
 If you would like to collaborate with us please contact us at *networkscied at gmail.com* or *liubov.tupikina at cri-paris.org*
+
+
+
+### Usage
+
+You can us the code in notebooks for browsing the data or managing the data collected from your project. In case of any errors or issues please contact us.
+
+## Contributing 
+
+We are developing project and open for collaborations. We collaborate with projects in various regions and countries. If you would like to join our team of educators, data scientists and coordinators, please write to us to liubov.tupikina at cri-paris.org
+We also are using slack in our community and would be happy to include you after you fill in the questionnaire at https://scied.network/page
+
+
