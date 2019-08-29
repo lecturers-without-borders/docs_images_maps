@@ -21,7 +21,8 @@ You can us the code in notebooks for browsing the data or managing the data coll
 
 ### Contributing 
 
-The project is under development and we are open for collaborations. We collaborate with mostly educational and data analysis projects in various regions and countries. If you would like to join our team of educators, data scientists and coordinators, please write to us to liubov.tupikina at cri-paris.org
+The project is under development and we are open for collaborations. We collaborate with mostly educational and data analysis projects in various regions and countries. If you would like to join our team of educators, data scientists and coordinators, please write to us to liubov.tupikina AT cri-paris.org
+
 We also are using slack in our community and would be happy to include you after you fill in the questionnaire at https://scied.network/page
 
 
