@@ -13,16 +13,10 @@ In subfolder *presentations* we put some presentations we gave in conferences wi
 ## Code of conduct 
 The link to the current version of code of conduct is https://github.com/lecturers-without-borders/docs_images_maps/blob/master/documents_lewibo/Code%20of%20Conduct%20LeWiBo.pdf 
 
-## Code for analysis of data
-We also put some recent code for analysis of open and depersonalized data for functionality of "Lecturers without borders".
-If you would like to collaborate with us please contact us at *networkscied at gmail.com* or *liubov.tupikina at cri-paris.org*
+## Contact and work with us 
+For more description of work opportunities please see here
+https://github.com/lecturers-without-borders/docs_images_maps/blob/master/presentations/Coordination%20position_lewibo2019.pdf
 
-
-### Usage of code
-
-You can us the code in notebooks for browsing the data or managing the data collected from your project. In case of any errors or issues please contact us.
-
-### Contributing 
 
 The project is under development and we are open for collaborations. We collaborate with mostly educational and data analysis projects in various regions and countries. If you would like to join our team of educators, data scientists and coordinators, please write to us to liubov.tupikina AT cri-paris.org
 
