@@ -3,14 +3,14 @@ Here we gather formal open documents, images for presentations, maps for sharing
 Main content is from the website of our project https://scied.network/
 Work in progress on Code of conduct and formal collaborative documents.
 
-## Documents and Images
+## Documents and Images of Lecturers without borders
 In folder *docs_images_maps* we collect images and plots from open data visualisation, which we are using for the presentations about "Lecturers without borders".
 In subfolder *documents* we put Memorandum of Understanding for collaborations between schools and "Lecturers without borders". 
 Code of Conduct of "Lecturers without borders" is the document, where we explain our standards.
 In subfolder *presentations* we put some presentations we gave in conferences with and about "Lecturers without borders".
+The information about meetings is described in slack of Lecturers without borders, please contact us if you would like to receive the notifications for that. 
 
-
-## Code of conduct 
+## Code of conduct of Lecturers without borders
 The link to the current version of code of conduct is https://github.com/lecturers-without-borders/docs_images_maps/blob/master/documents_lewibo/Code%20of%20Conduct%20LeWiBo.pdf 
 
 ## Contact and work with us 
