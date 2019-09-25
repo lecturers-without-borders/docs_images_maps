@@ -1,5 +1,5 @@
 # Content
-Here we gather formal open documents, images for presentations, maps for sharing with colleagues, NGOs and collaborators of our project "Lecturers without borders". 
+Here we gather open documents about "Lecturers without borders", images for presentations, maps for sharing with colleagues, NGOs and collaborators of our project "Lecturers without borders". 
 Main content is from the website of our project https://scied.network/
 Work in progress on Code of conduct and formal collaborative documents.
 
@@ -18,7 +18,9 @@ For more description of work opportunities please see here
 https://github.com/lecturers-without-borders/docs_images_maps/blob/master/presentations/Coordination%20position_lewibo2019.pdf
 
 
-The project is under development and we are open for collaborations. We collaborate with mostly educational and data analysis projects in various regions and countries. If you would like to join our team of educators, data scientists and coordinators, please write to us to liubov.tupikina AT cri-paris.org
+The project is under development and we are open for collaborations. We collaborate with mostly educational and data analysis projects in various regions and countries. If you would like to join our team of educators, data scientists and coordinators, please write to us to 
+Delphine Zemp or Liubov Tupikina 
+liubov.tupikina AT cri-paris.org 
 
 We also are using slack in our community and would be happy to include you after you fill in the registration at https://scied.network/page
 
