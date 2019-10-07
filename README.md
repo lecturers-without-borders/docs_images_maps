@@ -12,6 +12,7 @@ The information about meetings is described in slack of Lecturers without border
 
 ## Code of conduct of Lecturers without borders
 The link to the current version of code of conduct is https://github.com/lecturers-without-borders/docs_images_maps/blob/master/documents_lewibo/Code%20of%20Conduct%20LeWiBo.pdf 
+(work in progress)
 
 ## Contact and work with us 
 For more description of work opportunities please see here
