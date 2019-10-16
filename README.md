@@ -1,5 +1,5 @@
 # Content
-Here we gather open documents about "Lecturers without borders", images for presentations, maps for sharing with colleagues, NGOs and collaborators of our project "Lecturers without borders". 
+Here we gather open documents about "Lecturers without borders" (LeWiBo), images for presentations, maps for sharing with colleagues, NGOs and collaborators of our project "Lecturers without borders". 
 Main content is from the website of our project https://scied.network/
 Work in progress on Code of conduct and formal collaborative documents.
 
@@ -7,7 +7,7 @@ Work in progress on Code of conduct and formal collaborative documents.
 In folder *docs_images_maps* we collect images and plots from open data visualisation, which we are using for the presentations about "Lecturers without borders".
 In subfolder *documents* we put Memorandum of Understanding for collaborations between schools and "Lecturers without borders". 
 Code of Conduct of "Lecturers without borders" is the document, where we explain our standards.
-In subfolder *presentations* we put some presentations we gave in conferences with and about "Lecturers without borders".
+In subfolder *presentations* we put some presentations we gave in conferences with and about "Lecturers without borders". Numbers and figures about LeWiBo.
 The information about meetings is described in slack of Lecturers without borders, please contact us if you would like to receive the notifications for that. 
 
 ## Code of conduct of Lecturers without borders
