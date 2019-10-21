@@ -18,6 +18,7 @@ The link to the current version of code of conduct is https://github.com/lecture
 For more description of work opportunities please see here
 https://github.com/lecturers-without-borders/docs_images_maps/blob/master/presentations/Coordination%20position_lewibo2019.pdf
 
+Look at the movie about Lecturers without borders https://www.youtube.com/watch?v=X67V7eM2cPM
 
 The project is under development and we are open for collaborations. We collaborate with mostly educational and data analysis projects in various regions and countries. If you would like to join our team of educators, data scientists and coordinators, please write to us to 
 Delphine Zemp or Liubov Tupikina 
