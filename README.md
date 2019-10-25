@@ -3,6 +3,8 @@ Here we gather open documents about "Lecturers without borders" (LeWiBo), images
 Main content is from the website of our project https://scied.network/
 Work in progress on Code of conduct and formal collaborative documents.
 
+https://projects.cri-paris.org/projects/HaNIskID/des
+
 ## Documents and Images of Lecturers without borders
 In folder *docs_images_maps* we collect images and plots from open data visualisation, which we are using for the presentations about "Lecturers without borders".
 In subfolder *documents* we put Memorandum of Understanding for collaborations between schools and "Lecturers without borders". 
