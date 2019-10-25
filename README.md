@@ -21,8 +21,15 @@ https://github.com/lecturers-without-borders/docs_images_maps/blob/master/presen
 Look at the movie about Lecturers without borders https://www.youtube.com/watch?v=X67V7eM2cPM
 
 The project is under development and we are open for collaborations. We collaborate with mostly educational and data analysis projects in various regions and countries. If you would like to join our team of educators, data scientists and coordinators, please write to us to 
-Delphine Zemp or Liubov Tupikina 
+Nasia Nikolau, Mikhail Khotyakov, Delphine Zemp or Liubov Tupikina 
 liubov.tupikina AT cri-paris.org 
+
+## Open positions 
+Internship for workshop design:
+https://github.com/lecturers-without-borders/docs_images_maps/blob/master/documents_lewibo/Internship%20for%20website%20design.pdf
+
+Internship for database collection:
+https://cri-paris.org/aiv-internship/working-on-the-scientific-education-platform/
 
 We also are using slack in our community and would be happy to include you after you fill in the registration at https://scied.network/page
 
