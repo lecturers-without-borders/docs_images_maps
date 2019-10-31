@@ -6,10 +6,10 @@ Work in progress on Code of conduct and formal collaborative documents.
 https://projects.cri-paris.org/projects/HaNIskID/des
 
 ## Documents and Images of Lecturers without borders
-In folder *docs_images_maps* we collect images and plots from open data visualisation, which we are using for the presentations about "Lecturers without borders".
-In subfolder *documents* we put Memorandum of Understanding for collaborations between schools and "Lecturers without borders". 
-Code of Conduct of "Lecturers without borders" is the document, where we explain our standards.
-In subfolder *presentations* we put some presentations we gave in conferences with and about "Lecturers without borders". Numbers and figures about LeWiBo.
+1. In folder *docs_images_maps* we collect images and plots from open data visualisation, which we are using for the presentations about "Lecturers without borders".
+2. In subfolder *documents* we put Memorandum of Understanding for collaborations between schools and "Lecturers without borders". 
+Code of Conduct of "Lecturers without borders" is the document, where we explain our standards. We also include there email for collaborations.
+3. In subfolder *presentations* we put some presentations we gave in conferences with and about "Lecturers without borders". Numbers and figures about LeWiBo.
 The information about meetings is described in slack of Lecturers without borders, please contact us if you would like to receive the notifications for that. 
 
 ## Code of conduct of Lecturers without borders
