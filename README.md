@@ -1,4 +1,4 @@
-# Content
+# Content of doc_images_maps
 Here we gather open documents about "Lecturers without borders" (LeWiBo), images for presentations, maps for sharing with colleagues, NGOs and collaborators of our project "Lecturers without borders". 
 Main content is from the website of our project https://scied.network/
 Work in progress on Code of conduct and formal collaborative documents.
@@ -23,8 +23,10 @@ https://github.com/lecturers-without-borders/docs_images_maps/blob/master/presen
 Look at the movie about Lecturers without borders https://www.youtube.com/watch?v=X67V7eM2cPM
 
 The project is under development and we are open for collaborations. We collaborate with mostly educational and data analysis projects in various regions and countries. If you would like to join our team of educators, data scientists and coordinators, please write to us to 
-Nasia Nikolau, Mikhail Khotyakov, Delphine Zemp or Liubov Tupikina 
-liubov.tupikina AT cri-paris.org 
+*Nasia Nikolau, Mikhail Khotyakov, Delphine Zemp, Liubov Tupikina 
+liubov.tupikina AT cri-paris.org*
+*Anastasia Mityagina
+anamityagina@gmail.com*
 
 ## Open positions 
 Internship for workshop design:
