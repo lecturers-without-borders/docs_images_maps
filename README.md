@@ -17,7 +17,7 @@ The link to the current version of code of conduct is https://github.com/lecture
 (work in progress)
 
 ## Open positions 
-Internship for workshop design:
+Internship for website design:
 https://github.com/lecturers-without-borders/docs_images_maps/blob/master/documents_lewibo/Internship%20for%20website%20design.pdf
 
 Internship for database collection:
