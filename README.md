@@ -16,6 +16,12 @@ The information about meetings is described in slack of Lecturers without border
 The link to the current version of code of conduct is https://github.com/lecturers-without-borders/docs_images_maps/blob/master/documents_lewibo/Code%20of%20Conduct%20LeWiBo.pdf 
 (work in progress)
 
+## Publications about us
+1. On CRI Paris website https://www.cri-paris.org/en/newspage?id=5OSWbS0n 
+2. On Medium from Marie-Curie Foundation https://medium.com/marie-curie-alumni/science-crossing-borders-12f0dbe4feb2
+3. On our website we regularly post information and news www.scied.network
+4. On youtube https://www.youtube.com/watch?v=X67V7eM2cPM
+
 ## Open positions 
 Internship for website design:
 https://github.com/lecturers-without-borders/docs_images_maps/blob/master/documents_lewibo/Internship%20for%20website%20design.pdf
