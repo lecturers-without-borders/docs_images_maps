@@ -22,6 +22,8 @@ The link to the current version of code of conduct is https://github.com/lecture
 3. On our website we regularly post information and news www.scied.network
 4. On youtube https://www.youtube.com/watch?v=X67V7eM2cPM
 5. Our youtube https://www.youtube.com/channel/UCPjTcBFIth6p-r8B521Q-cw 
+6. On website of Professors without borders http://thinktank.prowibo.com/higher-education-for-the-new-decade-the-virtual-conversation/ 
+7. On website of Falling walls foundation https://www.youtube.com/watch?v=tlqXtuTsfEg&t=151s
 
 ## Open positions 
 Internship for website design:
